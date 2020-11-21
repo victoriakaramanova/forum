@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ng-workshop"
+  "defaultProject": "ng-workshop",
+  "cli": {
+    "analytics": "a0c752a2-29b3-4312-a96b-57965cb5f992"
+  }
 }
